@@ -1,7 +1,8 @@
+#Lab Report 1
 **09.04.15 - UNIGE**
 
 #Milieu 
-4 milieux 
+5 milieux : 
 	PCA : 
 	TSA : 
 	TSA + 0,1 mM de nitrate de plomb (NO3)2 : 
