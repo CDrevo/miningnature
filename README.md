@@ -21,3 +21,6 @@
 
 ## 4. Remerciement 
 
+## 5. Annexes
+ - Lab report
+ - Sample report
