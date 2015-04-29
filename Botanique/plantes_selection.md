@@ -26,6 +26,7 @@ Semblable à B. oleracea, mais tige hérissée à la base de poils sétacés. Fe
 
 **Description de l’espèce**
 Haut. 3–15 cm. Plante glabre, à nombreux rejets rampants, à rosettes stériles et à tiges fleuries ± dressées. Feuilles vert foncé ou bleuâtres, un peu charnues, entières ou peu dentées, atteignant 1 cm de long. Fleurs lilas, odorantes, longues de 6–9 mm. Inflorescence dense, en corymbe ombelliforme, ne s’allongeant que peu à maturité. Silicule oblongue, nettement carénée, non ailée, longue de 4–8 mm. Pédicelle étalé, env. aussi long que la silicule.
+
 **Période de floraison :** 6–7
 
 **Milieux et répartition suisse :** Plante pionnière sur éboulis non stabilisés ; subalp.-alp.
