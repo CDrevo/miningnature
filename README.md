@@ -1,4 +1,4 @@
-# Miningn Nature
+# Mining Nature
 ## 1. Présentation de la problématique
 ## 2. Bactériologie
  - résistance aux métaux lourd chez les bactéries (exemple pseudomosase)
