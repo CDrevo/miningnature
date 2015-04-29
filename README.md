@@ -1,9 +1,9 @@
 # Miningn Nature
 ## 1. Présentation de la problématique
 ## 2. Bactériologie
-### - résistance aux métaux lourd chez les bactéries (exemple pseudomosase)
-### - Ouverture sur la résistance aux antibiotiques(pseudomonases schéma de Karl) pourquoi la résistance aux antibiotiques est un problème.
-### - Protocole de recherche : 
+ - résistance aux métaux lourd chez les bactéries (exemple pseudomosase)
+ - Ouverture sur la résistance aux antibiotiques(pseudomonases schéma de Karl) pourquoi la résistance aux antibiotiques est un problème.
+ - Protocole de recherche : 
      - Prélèvement échantillons (technique et schéma) 
       - suspension 
       - Culture bactérienne sur milieu solide et liquide (résultat de recherche (graph), repiquage, coulage et étalage 
