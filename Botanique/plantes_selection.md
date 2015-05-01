@@ -11,6 +11,8 @@ Haut. 80–150 cm. Feuilles larges de 5–15 mm, planes, acuminées, glabres ou 
 
 **Origine :** probablement Asie sud-ouest
 
+###Littératures
+
 ## Brassica Juncea
 
 **Description de l’espèce**
@@ -22,6 +24,9 @@ Semblable à B. oleracea, mais tige hérissée à la base de poils sétacés. Fe
 
 **Distribution générale :** Asie
 
+###Littératures
+
+
 ## Thlaspi Rotundifolium
 
 **Description de l’espèce**
@@ -30,3 +35,39 @@ Haut. 3–15 cm. Plante glabre, à nombreux rejets rampants, à rosettes stéril
 **Période de floraison :** 6–7
 
 **Milieux et répartition suisse :** Plante pionnière sur éboulis non stabilisés ; subalp.-alp.
+
+###Littératures
+
+##Thlaspi rotundifolium
+
+Texte
+
+###Littératures
+
+lien1
+
+##Athyrium Yokoscence
+
+Texte
+
+###Littératures
+
+lien1
+
+##Helianthus annuus
+
+
+Texte
+
+###Littératures
+
+lien1
+
+##Salix viminalis L.
+
+
+Texte
+
+###Littératures
+
+lien1
